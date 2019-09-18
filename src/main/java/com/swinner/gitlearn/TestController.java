@@ -20,6 +20,8 @@ public class TestController {
 
         System.out.printf("远程   第四次提交");
 
+        System.out.printf("远程   第五次提交");
+
         return "getIndex hello  dddd  XXXXX";
     }
 }
