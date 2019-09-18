@@ -11,6 +11,8 @@ public class TestController {
     public String getIndex(){
         System.out.printf("dev 本地提交");
         System.out.printf("github YUANCHGENBG提交");
+
+        System.out.printf("本地   第二次提交");
         return "getIndex hello  dddd  XXXXX";
     }
 }
