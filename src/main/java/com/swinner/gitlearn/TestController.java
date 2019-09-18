@@ -10,6 +10,6 @@ public class TestController {
     @RequestMapping("/index")
     public String getIndex(){
         System.out.printf("dev 本地提交");
-        return "getIndex hello  dddd";
+        return "getIndex hello  dddd  XXXXX";
     }
 }
