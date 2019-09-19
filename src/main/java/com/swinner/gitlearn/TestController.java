@@ -36,6 +36,8 @@ public class TestController {
         
         System.out.printf("远程   第jiu次提交");
 
+        System.out.printf("本地   第九次提交");
+
 
         return "getIndex hello  dddd  XXXXX";
 
