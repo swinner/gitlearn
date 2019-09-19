@@ -34,6 +34,8 @@ public class TestController {
 
         System.out.printf("本地   第八次提交  会滚到第五次");
 
+        System.out.printf("本地   第九次提交");
+
 
         return "getIndex hello  dddd  XXXXX";
 
